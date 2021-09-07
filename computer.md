@@ -7,4 +7,4 @@
  - 1 fonte de alimentação
  - 1 cooler
  - 1 placa de som
- - 1 placa de vídeo
+ - 1 placa de v
